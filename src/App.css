@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.App input{
+  margin-top: 100px;
+  width: 500px;
+  height: 40px ;
+  border-radius: 20px;
+  padding-left: 15px;
+  border: 1px solid gray;
+}
+li{
+  border:1px solid gray; ;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 500px;
+}
+
+
